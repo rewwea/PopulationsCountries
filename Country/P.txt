@@ -1,0 +1,17 @@
+Pakistan	188894000
+Philippines	100959800
+Poland	38496000
+Peru	31151643
+Portugal	10477800
+Papua New Guinea	7398500
+Paraguay	6893727
+Palestine	4550368
+Panama	3713312
+Puerto Rico (U.S.)	3548397
+Palau	20901
+Pitcairn Islands (UK)	56
+
+Общее население: 3.96105e+08
+Количество стран: 12
+Среднее население: 3.30087e+07
+Стран с населением более 100 млн: 2

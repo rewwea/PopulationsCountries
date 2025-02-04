@@ -1,0 +1,26 @@
+Mexico	121005815
+Morocco	33516100
+Malaysia	30483800
+Mozambique	25727911
+Madagascar	21842167
+Malawi	16310431
+Mali	16259000
+Moldova	3557600
+Mauritania	3545620
+Mongolia	3000000
+Macedonia	2065769
+Mauritius	1261208
+Macau (China)	631000
+Montenegro	620029
+Malta	416055
+Martinique (France)	386486
+Maldives	341256
+Mayotte (France)	212645
+Marshall Islands	56086
+Monaco	36950
+Montserrat (UK)	4922
+
+Общее население: 2.81281e+08
+Количество стран: 21
+Среднее население: 1.33943e+07
+Стран с населением более 100 млн: 1

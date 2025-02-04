@@ -1,0 +1,38 @@
+South Africa	54002000
+South Korea	50423955
+Spain	46464053
+Sudan	38435252
+Saudi Arabia	31521418
+Syria	22265000
+Sri Lanka	20359439
+Senegal	13508715
+South Sudan	11892934
+Somalia	11123000
+Sweden	9743087
+Switzerland	8211700
+Serbia	7146759
+Sierra Leone	6319000
+Singapore	5469700
+Slovakia	5421034
+Slovenia	2065549
+Swaziland	1106189
+Solomon Islands	581344
+Suriname	534189
+Samoa	187820
+Sao Tome and Principe	187356
+Saint Lucia	185000
+Saint Vincent and the Grenadines	109000
+Seychelles	89949
+Saint Kitts and Nevis	55000
+South Ossetia[24]	51547
+Sint Maarten (Netherlands)	37429
+San Marino	32777
+Saint Barthelemy (France)	9131
+Saint Pierre and Miquelon (France)	6069
+Saint Helena, Ascension and Tristan da Cunha (UK)	4000
+Svalbard and Jan Mayen (Norway)	2562
+
+Общее население: 3.47552e+08
+Количество стран: 33
+Среднее население: 1.05319e+07
+Стран с населением более 100 млн: 0

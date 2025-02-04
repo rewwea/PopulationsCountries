@@ -1,0 +1,24 @@
+Brazil	203841000
+Bangladesh	157784000
+Burma	51419420
+Burkina Faso	17322796
+Bolivia	11410651
+Belgium	11233192
+Benin	10315244
+Burundi	9823827
+Belarus	9481000
+Bulgaria	7245677
+Bosnia and Herzegovina	3791622
+Botswana	2024904
+Bahrain	1316500
+Bhutan	756940
+Brunei	393372
+Belize	349728
+Barbados	285000
+Bermuda (UK)	64237
+British Virgin Islands (UK)	28054
+
+Общее население: 4.98887e+08
+Количество стран: 19
+Среднее население: 2.62572e+07
+Стран с населением более 100 млн: 2

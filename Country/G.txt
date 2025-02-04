@@ -1,0 +1,20 @@
+Germany	80767000
+Ghana	27043093
+Guatemala	15806675
+Greece	10992589
+Guinea	10628972
+Georgia	4490500
+Guinea-Bissau	1788000
+Gabon	1751000
+Guyana	746900
+Guadeloupe (France)	405739
+Guam (U.S.)	159358
+Grenada	103328
+Guernsey (UK)	63085
+Greenland (Denmark)	56295
+Gibraltar (UK)	30001
+
+Общее население: 1.54833e+08
+Количество стран: 15
+Среднее население: 1.03222e+07
+Стран с населением более 100 млн: 0

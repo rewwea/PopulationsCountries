@@ -1,0 +1,10 @@
+Democratic Republic of the Congo	71246000
+Dominican Republic	10378267
+Denmark	5655750
+Djibouti	900000
+Dominica	71293
+
+Общее население: 8.82513e+07
+Количество стран: 5
+Среднее население: 1.76503e+07
+Стран с населением более 100 млн: 0

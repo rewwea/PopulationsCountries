@@ -1,0 +1,27 @@
+China	1368050000
+Colombia	47984800
+Canada	35675834
+Cameroon	21143237
+Chile	18006407
+Cambodia	15405157
+Chad	13606000
+Cuba	11210064
+Czech Republic	10521600
+Central African Republic	4803000
+Costa Rica	4773130
+Croatia	4267558
+Cyprus	858000
+Comoros	763952
+Cape Verde	518467
+Curacao (Netherlands)	154843
+Cayman Islands (UK)	55691
+Collectivity of Saint Martin (France)	35742
+Caribbean Netherlands (Netherlands)	23296
+Cook Islands (New Zealand)	14974
+Christmas Island (Australia)	2072
+Cocos (Keeling) Islands (Australia)	550
+
+Общее население: 1.55787e+09
+Количество стран: 22
+Среднее население: 7.08125e+07
+Стран с населением более 100 млн: 1

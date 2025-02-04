@@ -1,0 +1,21 @@
+Turkey	77695904
+Thailand	64871000
+Tanzania	47421786
+Taiwan	23433753
+Tunisia	10982754
+Tajikistan	8161000
+Togo	7171000
+Turkmenistan	5888000
+The Gambia	1882450
+Trinidad and Tobago	1328019
+Transnistria	505153
+The Bahamas	368390
+Tonga	103252
+Turks and Caicos Islands (UK)	31458
+Tuvalu	11323
+Tokelau (NZ)	1411
+
+Общее население: 2.49857e+08
+Количество стран: 16
+Среднее население: 1.5616e+07
+Стран с населением более 100 млн: 0
