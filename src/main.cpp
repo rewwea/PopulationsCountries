@@ -10,19 +10,20 @@ int main()
     ifstream fl("population.txt");
     vector <string> countries;
     string s;
+    double population = 0;
     if (fl.is_open())
     {
-        while (getline(fl, s))
+        while (fl >> s)
         {
-            countries.push_back(s);
+            if ((int(s[0]) > 57) and (int(s[0])> 47))
+            {
+                countries.push_back(s);
+            }
+            else
+            {
+                population += stoi(s);
+            }
         }
     }
-    else
-    {
-        cout << "Error" << endl;
-    }
-    for (auto v: countries)
-    {
-        cout << v << endl;
-    }
+    cout << population << endl;
 }
