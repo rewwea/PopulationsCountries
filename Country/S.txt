@@ -32,7 +32,7 @@ Saint Pierre and Miquelon (France)	6069
 Saint Helena, Ascension and Tristan da Cunha (UK)	4000
 Svalbard and Jan Mayen (Norway)	2562
 
-Общее население: 3.47552e+08
+Общее население: 347551957
 Количество стран: 33
-Среднее население: 1.05319e+07
+Среднее население: 10531877
 Стран с населением более 100 млн: 0
